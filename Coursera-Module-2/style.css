@@ -1,4 +1,4 @@
-/********** Base styles **********/
+
 * {
   box-sizing: border-box;
   padding: 10px;
@@ -6,9 +6,6 @@
 div#container {
     position: relative;
 
- /* background-color: #FFFF99;
-    border: 1px solid black;
-*/
 }
 
 .col-lg-1 {
@@ -27,7 +24,7 @@ div#container {
 .numbers {
   color: #FFFF99;
  border: 1px solid black;
- 
+ margin: auto;
 }
 
 .one {
@@ -48,31 +45,16 @@ div#container {
   top: 40px;
   left: 70%;
 }
-/*section {
-  text-align: right;
-
-}*/
-
 
 h1 {
   margin-bottom: auto;
   color: #A599FF;
   text-align: center;
 
-
-}
-/*h3 {
-  text-align: right;
-  position: relative;
-  top: 50px;
-  background-color: #04340;
-  padding: auto;
-}*/
-
 p {
   border: 1px solid black;
   background-color: #A599FF;
-  height: 310px;
+  height: 350px;
   margin- right: auto;
   margin- left: auto;
   font-family: Helvetica;
@@ -83,7 +65,6 @@ p {
 
 .row {
   width: 100%;
-  /* border: 1px solid #A599FF; */
 
 }
 
