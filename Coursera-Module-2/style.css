@@ -1,10 +1,11 @@
-
+/********** Styles **********/
 * {
   box-sizing: border-box;
   padding: 10px;
 }
 div#container {
     position: relative;
+
 
 }
 
@@ -24,6 +25,7 @@ div#container {
 .numbers {
   color: #FFFF99;
  border: 1px solid black;
+ margin: auto;
 }
 
 .one {
@@ -45,10 +47,16 @@ div#container {
   left: 70%;
 }
 
+
+
 h1 {
   margin-bottom: auto;
   color: #A599FF;
   text-align: center;
+
+
+}
+
 
 p {
   border: 1px solid black;
@@ -64,6 +72,7 @@ p {
 
 .row {
   width: 100%;
+  /* border: 1px solid #A599FF; */
 
 }
 
