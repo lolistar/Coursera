@@ -1,0 +1,20 @@
+* {
+ 	box-sizing: border-box;
+}
+
+#header-nav {
+	background-color: #774249;
+	width: 100%;
+}
+.col-lg-12 {
+	 border: 1px solid black;
+	 height: 1000px;
+	 background-color: #535575;
+	 margin: 0 30px 20px 30px;
+	 position: relative;
+	 padding: 0 10px 10px 10px;
+}
+
+.food {
+	position: relative;
+}
